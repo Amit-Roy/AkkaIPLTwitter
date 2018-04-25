@@ -1,0 +1,34 @@
+{
+  "Chennai Super Kings": {
+    "abbr": "CSK",
+    "id": 1
+  },
+  "Delhi Daredevils": {
+    "abbr": "DD",
+    "id": 3
+  },
+  "Kings XI Punjab": {
+    "abbr": "KXIP",
+    "id": 4
+  },
+  "Kolkata Knight Riders": {
+    "abbr": "KKR",
+    "id": 5
+  },
+  "Mumbai Indians": {
+    "abbr": "MI",
+    "id": 6
+  },
+  "Rajasthan Royals": {
+    "abbr": "RR",
+    "id": 8
+  },
+  "Royal Challengers Bangalore": {
+    "abbr": "RCB",
+    "id": 9
+  },
+  "Sunrisers Hyderabad": {
+    "abbr": "SH",
+    "id": 62
+  }
+}
